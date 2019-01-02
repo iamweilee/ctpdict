@@ -1,6 +1,6 @@
 {
   "name": "ctpdict",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "All fields dict extracted from ctp document.",
   "main": "index.js",
   "scripts": {
