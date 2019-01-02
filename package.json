@@ -1,6 +1,6 @@
 {
   "name": "ctpdict",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "All fields dict extracted from ctp document.",
   "main": "index.js",
   "scripts": {
@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/iamweilee/ctpdict/issues"
   },
-  "homepage": "https://github.com/iamweilee/ctpdict#readme"
+  "homepage": "https://github.com/iamweilee/ctpdict#readme",
+  "dependencies": {
+    "microenum": "0.0.2"
+  }
 }
